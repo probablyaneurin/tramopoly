@@ -1,0 +1,132 @@
+{
+    "ANNOUNCEMENT": {
+        "type": "spy",
+        "tagline": "Reveal action cards!",
+        "title": "Announcement",
+        "rules": "Force one team to reveal their entire hand of action cards to everyone else.",
+        "icon": "announcement",
+        "emoji": "📢"
+    },
+    "INTERCHANGE": {
+        "type": "steal",
+        "tagline": "Swap stops!",
+        "title": "Interchange",
+        "rules": "Swap one of your claimed stops with another team's claimed stop. Neither may already be locked into a line.",
+        "icon": "interchange",
+        "emoji": "🔁"
+    },
+    "RAILROADED": {
+        "type": "steal",
+        "tagline": "Steal a stop!",
+        "title": "Railroaded",
+        "rules": "Steal another team's claimed stop. It may not already be locked into a line.",
+        "icon": "steal",
+        "emoji": "🧲"
+    },
+    "TICKETINSPECTION": {
+        "type": "spy",
+        "tagline": "Reveal a secret!",
+        "title": "Ticket Inspection",
+        "rules": "Force one team to reveal one of their secret cards to everyone else.",
+        "icon": "spy",
+        "emoji": "🔎"
+    },
+    "CANCELLED": {
+        "type": "counter",
+        "tagline": "Stop an action!",
+        "title": "Cancelled",
+        "rules": "Negate the effects of an action card (excluding curses) played directly against you. It may not be from a higher zone.",
+        "icon": "counter",
+        "emoji": "❎"
+    },
+    "REROUTED": {
+        "type": "counter",
+        "tagline": "Reverse a curse!",
+        "title": "Rerouted",
+        "rules": "Negate the effects of any curse card played against you and force the team that played it to suffer the curse instead.",
+        "icon": "rerouted",
+        "emoji": "↩️"
+    },
+    "DERAILMENT": {
+        "type": "steal",
+        "tagline": "Unclaim anything!",
+        "title": "Derailment",
+        "rules": "Remove any stop (may be locked into a line) from a team's hand. You can *only* play this card whilst on the platform of the stop.",
+        "icon": "derailment",
+        "emoji": "🛤️"
+    },
+    "CURSE-CLEAR-GRASS": {
+        "type": "curse",
+        "curse_type": "clear",
+        "tagline": "Curse a team!",
+        "title": "Touch grass",
+        "rules": "It must be real grass."
+    },
+    "CURSE-CLEAR-FLAG": {
+        "type": "curse",
+        "curse_type": "clear",
+        "tagline": "Curse a team!",
+        "title": "Find flags",
+        "rules": "Locate 2 unique flags, one must belong to a country or region outside the UK. Neither may be found at the tram stop."
+    },
+    "CURSE-CLEAR-REPENT": {
+        "type": "curse",
+        "curse_type": "clear",
+        "tagline": "Curse a team!",
+        "title": "Repent",
+        "rules": "Go to church. You must repent there."
+    },
+    "CURSE-CLEAR-MELON": {
+        "type": "curse",
+        "curse_type": "clear",
+        "tagline": "Curse a team!",
+        "title": "Get a melon",
+        "rules": "You must carry it with you for the rest of the game."
+    },
+    "CURSE-CLEAR-CHEESE": {
+        "type": "curse",
+        "curse_type": "clear",
+        "tagline": "Curse a team!",
+        "title": "Say cheese",
+        "rules": "Call a non-team member and get them to say cheese, without saying it yourself. If they notice, hang up and call someone else."
+    },
+    "CURSE-CLEAR-CONNECTION": {
+        "type": "curse",
+        "curse_type": "clear",
+        "tagline": "Curse a team!",
+        "title": "Find human connection",
+        "rules": "Have a conversation with a member of the public. They must say at least 30 words."
+    },
+    "CURSE-ONGOING-JAM": {
+        "type": "curse",
+        "curse_type": "ongoing",
+        "tagline": "Curse a team!",
+        "title": "Pump up the jam",
+        "rules": "Listen to Belgian techno anthem Pump Up the Jam for the next 20 minutes.",
+        "timer": 20
+    },
+    "CURSE-ONGOING-TOGETHER": {
+        "type": "curse",
+        "curse_type": "ongoing",
+        "tagline": "Curse a team!",
+        "title": "Together forever",
+        "rules": "Two team members must link arms for the next 45 minutes. You may switch which team members are linking arms.",
+        "timer": 45
+    },
+    "CURSE-ONGOING-EVEN": {
+        "type": "curse",
+        "curse_type": "ongoing",
+        "tagline": "Curse a team!",
+        "title": "Get even",
+        "rules": "You may only board even-numbered trams for the next 30 minutes.",
+        "timer": 30
+    },
+    "CURSE-ONGOING-DOUBLE": {
+        "type": "curse",
+        "curse_type": "ongoing",
+        "tagline": "Curse a team!",
+        "title": "Double it",
+        "rules": "Any dice rolls for challenges are doubled for the next 60 minutes.",
+        "timer": 60
+    }
+}

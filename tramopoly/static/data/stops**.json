@@ -1,0 +1,1243 @@
+{
+    "ABM": {
+        "name": "Abraham Moss",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "ABM1",
+            "ABM2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "VIC"
+    },
+    "AIR": {
+        "name": "Manchester Airport",
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "AIR1",
+            "AIR2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 4,
+        "parent": "CNK",
+        "special": "DONATION"
+    },
+    "ALT": {
+        "name": "Altrincham",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "ALT1",
+            "ALT2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 4,
+        "parent": "CNK"
+    },
+    "ANC": {
+        "name": "Anchorage",
+        "lines": [
+            "blue",
+            "orange"
+        ],
+        "challenges": [
+            "ANC1",
+            "ANC2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "ASH": {
+        "name": "Ashton-under-Lyne",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "ASH1",
+            "ASH2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "PIC",
+        "special": "CLAIMORANGE"
+    },
+    "ASM": {
+        "name": "Ashton Moss",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "ASM1",
+            "ASM2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "PIC"
+    },
+    "ASW": {
+        "name": "Ashton West",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "ASW1",
+            "ASW2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "PIC"
+    },
+    "AUD": {
+        "name": "Audenshaw",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "AUD1",
+            "AUD2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "PIC"
+    },
+    "BAG": {
+        "name": "Baguley",
+        "aliases": [],
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "BAG1",
+            "BAG2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "BCH": {
+        "name": "Benchill",
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "BCH1",
+            "BCH2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 4,
+        "parent": "CNK"
+    },
+    "BDW": {
+        "name": "Broadway",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "BDW1",
+            "BDW2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "BKV": {
+        "name": "Bowker Vale",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "BKV1",
+            "BKV2"
+        ],
+        "on_zone_border": true,
+        "inner_zone": 2,
+        "parent": "VIC"
+    },
+    "BMR": {
+        "name": "Barlow Moor Road",
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "BMR1",
+            "BMR2"
+        ],
+        "on_zone_border": true,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "BOB": {
+        "name": "Besses o' th' Barn",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "BOB1",
+            "BOB2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "VIC"
+    },
+    "BRK": {
+        "name": "Brooklands",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "BRK1",
+            "BRK2"
+        ],
+        "on_zone_border": true,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "BRT": {
+        "name": "Burton Road",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "BRT1",
+            "BRT2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "BRY": {
+        "name": "Bury",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "BRY1",
+            "BRY2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 4,
+        "parent": "VIC"
+    },
+    "CEP": {
+        "name": "Central Park",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "CEP1",
+            "CEP2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "VIC"
+    },
+    "CER": {
+        "name": "Cemetery Road",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "CER1",
+            "CER2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "PIC"
+    },
+    "CHO": {
+        "name": "Chorlton",
+        "lines": [
+            "brown",
+            "pink",
+            "navy"
+        ],
+        "challenges": [
+            "CHO1",
+            "CHO2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "CLA": {
+        "name": "Clayton Hall",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "CLA1",
+            "CLA2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "PIC"
+    },
+    "CNK": {
+        "name": "Cornbrook",
+        "lines": [
+            "red",
+            "blue",
+            "orange",
+            "green",
+            "yellow",
+            "brown",
+            "pink",
+            "navy"
+        ],
+        "challenges": [
+            "CNK1",
+            "CNK2"
+        ],
+        "on_zone_border": true,
+        "inner_zone": 1,
+        "parent": "CNK"
+    },
+    "CRO": {
+        "name": "Crossacres",
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "CRO1",
+            "CRO2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 4,
+        "parent": "CNK"
+    },
+    "CRP": {
+        "name": "Crumpsall",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "CRP1",
+            "CRP2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "VIC"
+    },
+    "DAN": {
+        "name": "Dane Road",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "DAN1",
+            "DAN2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "DCF": {
+        "name": "Deansgate-Castlefield",
+        "lines": [
+            "red",
+            "blue",
+            "orange",
+            "green",
+            "yellow",
+            "brown",
+            "pink",
+            "navy"
+        ],
+        "challenges": [
+            "DCF1",
+            "DCF2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 1
+    },
+    "DDV": {
+        "name": "Didsbury Village",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "DDV1",
+            "DDV2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "DYL": {
+        "name": "Droylsden",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "DYL1",
+            "DYL2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "PIC"
+    },
+    "ECC": {
+        "name": "Eccles",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "ECC1",
+            "ECC2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "EDD": {
+        "name": "East Didsbury",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "EDD1",
+            "EDD2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "EDL": {
+        "name": "Edge Lane",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "EDL1",
+            "EDL2"
+        ],
+        "on_zone_border": true,
+        "inner_zone": 2,
+        "parent": "PIC"
+    },
+    "EVC": {
+        "name": "Barton Dock Road",
+        "lines": [
+            "red"
+        ],
+        "challenges": [
+            "EVC1",
+            "EVC2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "EXQ": {
+        "name": "Exchange Quay",
+        "lines": [
+            "blue",
+            "orange"
+        ],
+        "challenges": [
+            "EXQ1",
+            "EXQ2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "EXS": {
+        "name": "Exchange Square",
+        "lines": [
+            "green",
+            "yellow",
+            "brown",
+            "pink",
+            "navy"
+        ],
+        "challenges": [
+            "EXS1",
+            "EXS2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 1
+    },
+    "FAL": {
+        "name": "Failsworth",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "FAL1",
+            "FAL2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "VIC"
+    },
+    "FIR": {
+        "name": "Firswood",
+        "lines": [
+            "brown",
+            "pink",
+            "navy"
+        ],
+        "challenges": [
+            "FIR1",
+            "FIR2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "FRE": {
+        "name": "Freehold",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "FRE1",
+            "FRE2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "VIC"
+    },
+    "HBC": {
+        "name": "Harbour City",
+        "lines": [
+            "blue",
+            "orange"
+        ],
+        "challenges": [
+            "HBC1",
+            "HBC2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "HOL": {
+        "name": "Hollinwood",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "HOL1",
+            "HOL2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "VIC"
+    },
+    "HOT": {
+        "name": "Holt Town",
+        "lines": [
+            "blue",
+            "orange"
+        ],
+        "challenges": [
+            "HOT1",
+            "HOT2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "PIC"
+    },
+    "HPK": {
+        "name": "Heaton Park",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "HPK1",
+            "HPK2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "VIC"
+    },
+    "IWM": {
+        "name": "Imperial War Museum",
+        "lines": [
+            "red"
+        ],
+        "challenges": [
+            "IWM1",
+            "IWM2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "LDW": {
+        "name": "Ladywell",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "LDW1",
+            "LDW2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "LGW": {
+        "name": "Langworthy",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "LGW1",
+            "LGW2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "MAR": {
+        "name": "Martinscroft",
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "MAR1",
+            "MAR2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 4,
+        "parent": "CNK"
+    },
+    "MEC": {
+        "name": "MediaCityUK",
+        "lines": [
+            "orange"
+        ],
+        "challenges": [
+            "MEC1",
+            "MEC2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "MON": {
+        "name": "Monsall",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "MON1",
+            "MON2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "VIC"
+    },
+    "MRD": {
+        "name": "Moor Road",
+        "aliases": [
+            "moor rd"
+        ],
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "MRD1",
+            "MRD2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "NAV": {
+        "name": "Navigation Road",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "NAV1",
+            "NAV2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 4,
+        "parent": "CNK"
+    },
+    "NHM": {
+        "name": "Newton Heath and Moston",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "NHM1",
+            "NHM2"
+        ],
+        "on_zone_border": true,
+        "inner_zone": 2,
+        "parent": "VIC"
+    },
+    "NIS": {
+        "name": "New Islington",
+        "lines": [
+            "blue",
+            "orange"
+        ],
+        "challenges": [
+            "NIS1",
+            "NIS2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 1
+    },
+    "NMR": {
+        "name": "Northern Moor",
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "NMR1",
+            "NMR2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "OHC": {
+        "name": "Oldham Central",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "OHC1",
+            "OHC2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "VIC"
+    },
+    "OHK": {
+        "name": "Oldham King Street",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "OHK1",
+            "OHK2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "VIC"
+    },
+    "OHM": {
+        "name": "Oldham Mumps",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "OHM1",
+            "OHM2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "VIC",
+        "special": "IMMUNITY"
+    },
+    "OLD": {
+        "name": "Old Trafford",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "OLD1",
+            "OLD2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "PAR": {
+        "name": "Parkway",
+        "lines": [
+            "red"
+        ],
+        "challenges": [
+            "PAR1",
+            "PAR2"
+        ],
+        "on_zone_border": true,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "PCG": {
+        "name": "Piccadilly Gardens",
+        "lines": [
+            "blue",
+            "orange"
+        ],
+        "challenges": [
+            "PCG1",
+            "PCG2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 1
+    },
+    "PIC": {
+        "name": "Piccadilly",
+        "lines": [
+            "blue",
+            "orange"
+        ],
+        "challenges": [
+            "PIC1",
+            "PIC2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 1
+    },
+    "PLH": {
+        "name": "Peel Hall",
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "PLH1",
+            "PLH2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 4,
+        "parent": "CNK"
+    },
+    "POM": {
+        "name": "Pomona",
+        "lines": [
+            "red",
+            "blue",
+            "orange"
+        ],
+        "challenges": [
+            "POM1",
+            "POM2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "PRS": {
+        "name": "Prestwich",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "PRS1",
+            "PRS2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "VIC"
+    },
+    "QNS": {
+        "name": "Queens Road",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "QNS1",
+            "QNS2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "VIC"
+    },
+    "RAD": {
+        "name": "Radcliffe",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "RAD1",
+            "RAD2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 4,
+        "parent": "VIC"
+    },
+    "RBN": {
+        "name": "Robinswood Road",
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "RBN1",
+            "RBN2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 4,
+        "parent": "CNK"
+    },
+    "RTH": {
+        "name": "Roundthorn",
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "RTH1",
+            "RTH2"
+        ],
+        "on_zone_border": true,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "SAL": {
+        "name": "Sale",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "SAL1",
+            "SAL2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "SFQ": {
+        "name": "Salford Quays",
+        "lines": [
+            "blue",
+            "orange"
+        ],
+        "challenges": [
+            "SFQ1",
+            "SFQ2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "SHD": {
+        "name": "Shadowmoss",
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "SHD1",
+            "SHD2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 4,
+        "parent": "CNK"
+    },
+    "SOC": {
+        "name": "South Chadderton",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "SOC1",
+            "SOC2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "VIC"
+    },
+    "SPC": {
+        "name": "Etihad Campus",
+        "lines": [
+            "blue",
+            "orange"
+        ],
+        "challenges": [
+            "SPC1",
+            "SPC2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "PIC"
+    },
+    "SPS": {
+        "name": "St Peter's Square",
+        "lines": [
+            "blue",
+            "orange",
+            "green",
+            "yellow",
+            "brown",
+            "pink",
+            "navy"
+        ],
+        "challenges": [
+            "SPS1",
+            "SPS2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 1
+    },
+    "STR": {
+        "name": "Stretford",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "STR1",
+            "STR2"
+        ],
+        "on_zone_border": true,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "SWP": {
+        "name": "Sale Water Park",
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "SWP1",
+            "SWP2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "SWR": {
+        "name": "St Werburgh's Road",
+        "lines": [
+            "brown",
+            "pink",
+            "navy"
+        ],
+        "challenges": [
+            "SWR1",
+            "SWR2"
+        ],
+        "on_zone_border": true,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "TFB": {
+        "name": "Trafford Bar",
+        "lines": [
+            "green",
+            "yellow",
+            "brown",
+            "pink",
+            "navy"
+        ],
+        "challenges": [
+            "TFB1",
+            "TFB2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "TMP": {
+        "name": "Timperley",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "TMP1",
+            "TMP2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 4,
+        "parent": "CNK"
+    },
+    "TRC": {
+        "name": "The Trafford Centre",
+        "lines": [
+            "red"
+        ],
+        "challenges": [
+            "TRC1",
+            "TRC2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK",
+        "special": "REWARDCHOICE"
+    },
+    "VEL": {
+        "name": "Velopark",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "VEL1",
+            "VEL2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "PIC"
+    },
+    "VIC": {
+        "name": "Victoria",
+        "lines": [
+            "green",
+            "yellow",
+            "brown",
+            "pink",
+            "navy"
+        ],
+        "challenges": [
+            "VIC1",
+            "VIC2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 1
+    },
+    "VLG": {
+        "name": "Village",
+        "lines": [
+            "red"
+        ],
+        "challenges": [
+            "VLG1",
+            "VLG2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "WDD": {
+        "name": "West Didsbury",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "WDD1",
+            "WDD2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "WFD": {
+        "name": "Whitefield",
+        "lines": [
+            "green",
+            "yellow"
+        ],
+        "challenges": [
+            "WFD1",
+            "WFD2"
+        ],
+        "on_zone_border": true,
+        "inner_zone": 3,
+        "parent": "VIC"
+    },
+    "WPK": {
+        "name": "Wythenshawe Park",
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "WPK1",
+            "WPK2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "WSD": {
+        "name": "Wharfside",
+        "lines": [
+            "red"
+        ],
+        "challenges": [
+            "WSD1",
+            "WSD2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "WST": {
+        "name": "Weaste",
+        "lines": [
+            "blue"
+        ],
+        "challenges": [
+            "WST1",
+            "WST2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 2,
+        "parent": "CNK"
+    },
+    "WTH": {
+        "name": "Withington",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "WTH1",
+            "WTH2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "CNK"
+    },
+    "WWD": {
+        "name": "Westwood",
+        "lines": [
+            "brown",
+            "pink"
+        ],
+        "challenges": [
+            "WWD1",
+            "WWD2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 3,
+        "parent": "VIC"
+    },
+    "WYC": {
+        "name": "Wythenshawe Town Centre",
+        "lines": [
+            "navy"
+        ],
+        "challenges": [
+            "WYC1",
+            "WYC2"
+        ],
+        "on_zone_border": false,
+        "inner_zone": 4,
+        "parent": "CNK"
+    }
+}

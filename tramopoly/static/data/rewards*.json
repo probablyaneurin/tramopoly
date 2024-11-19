@@ -1,0 +1,366 @@
+[
+    {
+        "type": "choice",
+        "count": 1,
+        "ref": "BURY/ALTRINCHAM gets 4/2/2 or 3/2+IMMUNITY randomly",
+        "parts": [
+            {
+                "type": "all",
+                "count": 1,
+                "ref": "BURY is the 4 side",
+                "parts": [
+                    {
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "BRY",
+                            "RAD"
+                        ]
+                    },
+                    {
+                        "type": "choice",
+                        "count": 2,
+                        "parts": [
+                            "BKV",
+                            "CRP",
+                            "ABM",
+                            "QRD"
+                        ]
+                    },
+                    {
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "BRK",
+                            "SAL",
+                            "DAN"
+                        ]
+                    },
+                    {
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "TFB",
+                            "OLD",
+                            "STR"
+                        ]
+                    },
+                    {
+                        "type": "special",
+                        "code": "IMMUNITY",
+                        "stop": "ALT"
+                    }
+                ]
+            },
+            {
+                "type": "all",
+                "count": 1,
+                "ref": "ALTRINCHAM is the 4 side",
+                "parts": [
+                    {
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "ALT",
+                            "NAV",
+                            "TMP"
+                        ]
+                    },
+                    {
+                        "type": "choice",
+                        "count": 2,
+                        "parts": [
+                            "STR",
+                            "OLD",
+                            "TFB"
+                        ]
+                    },
+                    {
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "WFD",
+                            "BOB",
+                            "PRS",
+                            "HPK"
+                        ]
+                    },
+                    {
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "BKV",
+                            "CRP",
+                            "ABM",
+                            "QNS"
+                        ]
+                    },
+                    {
+                        "type": "special",
+                        "code": "IMMUNITY",
+                        "stop": "BRY"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "all",
+        "ref": "MEDIACITYUK is always guaranteed z2",
+        "parts": [
+            "MEC"
+        ]
+    },
+    {
+        "type": "special",
+        "ref": "THE TRAFFORD CENTRE is always guaranteed the reward choice special",
+        "code": "REWARDCHOICE",
+        "stop": "TRC"
+    },
+    {
+        "type": "all",
+        "ref": "ECCLES is always guaranteed z3 as no special",
+        "parts": [
+            "ECC"
+        ]
+    },
+    {
+        "type": "choice",
+        "count": 2,
+        "ref": "AIRPORT LINE always gets 2 z4 cards",
+        "parts": [
+            "SHD",
+            "PLH",
+            "RBN",
+            "WYC",
+            "CRO",
+            "BCH",
+            "MAR"
+        ]
+    },
+    {
+        "type": "choice",
+        "count": 2,
+        "ref": "OLDHAM LINE always gets 2 z3 cards",
+        "parts": [
+            "DER",
+            "OHM",
+            "OHC",
+            "OHK",
+            "WWD",
+            "FRE",
+            "SOC",
+            "HOL",
+            "FAL"
+        ]
+    },
+    {
+        "type": "choice",
+        "count": 2,
+        "ref": "ASHTON LINE always gets 2 z3 cards",
+        "parts": [
+            "ASW",
+            "ASM",
+            "AUD",
+            "DYL",
+            "CER"
+        ]
+    },
+    {
+        "type": "special",
+        "ref": "ASHTON UNDER LYNE always gets the claim orange special",
+        "code": "CLAIMORANGE",
+        "stop": "ASH"
+    },
+    {
+        "type": "choice",
+        "count": 2,
+        "ref": "DIDSBURY LINE always gets 2 z3 cards",
+        "parts": [
+            "EDD",
+            "DDV",
+            "WDD",
+            "BRT",
+            "WTH"
+        ]
+    },
+    {
+        "type": "choice",
+        "count": 2,
+        "ref": "AIRPORT LINE always gets 2 z3 cards",
+        "parts": [
+            "RTH",
+            "BAG",
+            "MRD",
+            "WPK",
+            "NMR",
+            "SWP"
+        ]
+    },
+    {
+        "type": "choice",
+        "count": 1,
+        "ref": "The two secret card abilities are randomly given to ROCHDALE and AIRPORT",
+        "parts": [
+            {
+                "type": "all",
+                "ref": "DROPSECRETS is given to ROCHDALE, ADDSECRETS is given to AIRPORT",
+                "parts": [
+                    {
+                        "type": "special",
+                        "code": "DROPSECRETS",
+                        "stop": "RTC"
+                    },
+                    {
+                        "type": "special",
+                        "code": "ADDSECRETS",
+                        "stop": "AIR"
+                    }
+                ]
+            },
+            {
+                "type": "all",
+                "ref": "DROPSECRETS is given to AIRPORT, ADDSECRETS is given to ROCHDALE",
+                "parts": [
+                    {
+                        "type": "special",
+                        "code": "DROPSECRETS",
+                        "stop": "AIR"
+                    },
+                    {
+                        "type": "special",
+                        "code": "ADDSECRETS",
+                        "stop": "RTC"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "choice",
+        "count": 1,
+        "ref": "TRAFFORD PARK LINE always gets 1 z3 card",
+        "parts": [
+            "EVC"
+        ]
+    },
+    {
+        "type": "choice",
+        "count": 1,
+        "ref": "OLDHAM LINE always gets 1 z2 card",
+        "parts": [
+            "NHM",
+            "CEP",
+            "MON"
+        ]
+    },
+    {
+        "type": "choice",
+        "count": 2,
+        "ref": "ASHTON LINE always gets 2 z2 cards",
+        "parts": [
+            "CLA",
+            "VEL",
+            "SPC",
+            "HOT"
+        ]
+    },
+    {
+        "type": "choice",
+        "count": 1,
+        "ref": "AIRPORT LINE always gets a z2 card",
+        "parts": [
+            "BMR",
+            "SWR",
+            "CHO",
+            "FIR"
+        ]
+    },
+    {
+        "type": "choice",
+        "count": 2,
+        "ref": "TRAFFORD PARK LINE always gets 2 z2 cards",
+        "parts": [
+            "PAR",
+            "VLG",
+            "IWM",
+            "WSD"
+        ]
+    },
+    {
+        "type": "choice",
+        "count": 2,
+        "ref": "ECCLES LINE always gets 2 z2 cards",
+        "parts": [
+            "LDW",
+            "WST",
+            "LGW",
+            "BDY",
+            "HBC",
+            "ANC"
+        ]
+    },
+    {
+        "type": "choice",
+        "count": 1,
+        "ref": "MEDIA CITY LINE always gets a z2 card",
+        "parts": [
+            "SFQ",
+            "EXQ",
+            "POM"
+        ]
+    },
+    {
+        "type": "choice",
+        "count": 2,
+        "ref": "ROCHDALE LINE always gets 2 z4 cards",
+        "parts": [
+            "ROC",
+            "NEB",
+            "KIN",
+            "MIL",
+            "NEH",
+            "SHC"
+        ]
+    },
+    {
+        "type": "all",
+        "ref": "ZONE 1 always gets 5 cards (split into neat groups)",
+        "parts": [
+            {
+                "type": "choice",
+                "count": 1,
+                "parts": [
+                    "VIC",
+                    "EXS",
+                    "SHL"
+                ]
+            },
+            {
+                "type": "choice",
+                "count": 1,
+                "parts": [
+                    "MKT",
+                    "PCG"
+                ]
+            },
+            {
+                "type": "choice",
+                "count": 1,
+                "parts": [
+                    "PIC",
+                    "NIS"
+                ]
+            },
+            {
+                "type": "choice",
+                "count": 2,
+                "parts": [
+                    "SPS",
+                    "DCF",
+                    "CNK"
+                ]
+            }
+        ]
+    }
+]

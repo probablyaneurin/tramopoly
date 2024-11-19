@@ -1,0 +1,22 @@
+{
+    "spy": {
+        "colour" : "c5ebdc",
+        "icon": "spy",
+        "emoji": "🔎"
+    },
+    "curse": {
+        "colour": "eb94e8",
+        "icon": "curse",
+        "emoji": "☠️"
+    },
+    "steal": {
+        "colour": "fab991",
+        "icon": "steal",
+        "emoji": "🧲"
+    },
+    "counter": {
+        "colour": "b2e3af",
+        "icon": "counter",
+        "emoji": "❎"
+    }
+}

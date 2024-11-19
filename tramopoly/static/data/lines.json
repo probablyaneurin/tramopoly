@@ -1,0 +1,38 @@
+{
+    "brown": {
+        "colour": "867864",
+        "emoji": "🤎"
+    },
+    "pink": {
+        "colour": "ef80b1",
+        "emoji": "🩷"
+    },
+    "navy": {
+        "colour": "1769b4",
+        "emoji": "💙"
+    },
+    "green": {
+        "colour": "23841f",
+        "emoji": "💚"
+    },
+    "yellow": {
+        "colour": "edb600",
+        "emoji": "💛"
+    },
+    "purple": {
+        "colour": "711279",
+        "emoji": "💜"
+    },
+    "blue": {
+        "colour": "5fc9f3",
+        "emoji": "🩵"
+    },
+    "orange": {
+        "colour": "f39200",
+        "emoji": "🧡"
+    },
+    "red": {
+        "colour": "e20006",
+        "emoji": "❤️"
+    }
+}

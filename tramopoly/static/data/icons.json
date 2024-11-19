@@ -1,0 +1,57 @@
+{
+    "0": {
+        "colour": "ffecbf",
+        "icon": [
+            "challenge_1",
+            "challenge_2"
+        ]
+    },
+    "1": {
+        "colour": "cc99ff",
+        "icon": [
+            "reward"
+        ]
+    },
+    "2": {
+        "colour": "8bbfff",
+        "icon": [
+            "special"
+        ]
+    },
+    "3": {
+        "colour": "94ff9a",
+        "icon": [
+            "claimed_by_you"
+        ]
+    },
+    "4": {
+        "colour": "ffa3ad",
+        "icon": [
+            "claimed"
+        ]
+    },
+    "5": {
+        "colour": "94ff9a",
+        "icon": [
+            "locked"
+        ]
+    },
+    "6": {
+        "colour": "ffa3ad",
+        "icon": [
+            "locked"
+        ]
+    },
+    "7": {
+        "colour": "96c3ff",
+        "icon": [
+            "trapped"
+        ]
+    },
+    "8": {
+        "colour": "ff8f43",
+        "icon": [
+            "secret"
+        ]
+    }
+}

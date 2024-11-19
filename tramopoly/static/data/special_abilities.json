@@ -1,0 +1,32 @@
+{
+    "IMMUNITY": {
+        "name": "Curse Immunity",
+        "icon": "immunity",
+        "description": "No team may play curse cards against you. If they attempt to, they will keep the card in their hand and may play it against another team."
+    },
+    "DONATION": {
+        "name": "Donation",
+        "icon": "donation",
+        "description": "When activated, you must choose two of your secret cards which will be divided between the other teams. You will not know which card has been given to which team."
+    },
+    "REWARDCHOICE": {
+        "name": "Reward Choice",
+        "icon": "rewardchoice",
+        "description": "Whenever you claim a stop that has a reward, you will be offered a choice of two action cards instead of being dealt a random card from that zone deck."
+    },
+    "CLAIMORANGE": {
+        "name": "Bonus Line",
+        "icon": "claimorange",
+        "description": "You may claim the orange line by using one stop from each 'section' of the line. The MediaCityUK and Etihad Campus Zone 2 sections will be counted separately."
+    },
+    "DROPSECRETS": {
+        "name": "No Longer Secret",
+        "icon": "dropsecrets",
+        "description": "When activated, you must choose two of your secret cards which will be discarded, meaning you are no longer required to own them. They will be shown to the other teams."
+    },
+    "ADDSECRETS": {
+        "name": "Not Another One!",
+        "icon": "donation",
+        "description": "When activated, all other teams will be dealt an extra zone 2 secret card."
+    }
+}

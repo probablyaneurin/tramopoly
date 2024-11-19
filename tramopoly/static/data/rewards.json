@@ -1,0 +1,427 @@
+[
+    {
+        "ref": "ZONE 1 | 5 rewards",
+        "type": "all",
+        "parts": [
+            {
+                "ref": "VICTORIA GROUP | 1 reward",
+                "type": "choice",
+                "count": 1,
+                "parts": [
+                    "VIC",
+                    "EXS",
+                    "SHL"
+                ]
+            },
+            {
+                "ref": "CENTRAL GROUP | 1 reward",
+                "type": "choice",
+                "count": 1,
+                "parts": [
+                    "MKT",
+                    "PCG"
+                ]
+            },
+            {
+                "ref": "PICCADILLY GROUP | 1 reward",
+                "type": "choice",
+                "count": 1,
+                "parts": [
+                    "PIC",
+                    "NIS"
+                ]
+            },
+            {
+                "ref": "SOUTHERN TRUNK | 2 rewards",
+                "type": "choice",
+                "count": 2,
+                "parts": [
+                    "SPS",
+                    "DCF",
+                    "CNK"
+                ]
+            }
+        ]
+    },
+    {
+        "ref": "BURY/ALTRINCHAM LINE | 4 rewards and 1 special",
+        "type": "choice",
+        "count": 1,
+        "parts": [
+            {
+                "ref": "BURY 4/2 | ALTRINCHAM S/3/2",
+                "type": "all",
+                "count": 1,
+                "parts": [
+                    {
+                        "ref": "BURY ZONE 4 | 2 rewards",
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "BRY",
+                            "RAD"
+                        ]
+                    },
+                    {
+                        "ref": "BURY ZONE 2 | 1 reward",
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "BKV",
+                            "CRP",
+                            "ABM",
+                            "QRD"
+                        ]
+                    },
+                    {
+                        "ref": "ALTRINCHAM | special ability",
+                        "type": "special",
+                        "code": "IMMUNITY",
+                        "stop": "ALT"
+                    },
+                    {
+                        "ref": "ALTRINCHAM ZONE 3 | 1 reward",
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "BRK",
+                            "SAL",
+                            "DAN"
+                        ]
+                    },
+                    {
+                        "ref": "ALTRINCHAM ZONE 2 | 1 reward",
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "TFB",
+                            "OLD",
+                            "STR"
+                        ]
+                    }
+                ]
+            },
+            {
+                "ref": "ALTRINCHAM 4/2 | BURY S/3/2",
+                "type": "all",
+                "count": 1,
+                "parts": [
+                    {
+                        "ref": "ALTRINCHAM ZONE 4 | 1 reward",
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "ALT",
+                            "NAV",
+                            "TMP"
+                        ]
+                    },
+                    {
+                        "ref": "ALTRINCHAM ZONE 2 | 1 reward",
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "STR",
+                            "OLD",
+                            "TFB"
+                        ]
+                    },
+                    {
+                        "ref": "BURY | special ability",
+                        "type": "special",
+                        "code": "IMMUNITY",
+                        "stop": "BRY"
+                    },
+                    {
+                        "ref": "BURY ZONE 3 | 1 reward",
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "WFD",
+                            "BOB",
+                            "PRS",
+                            "HPK"
+                        ]
+                    },
+                    {
+                        "ref": "BURY ZONE 2 | 1 reward",
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "BKV",
+                            "CRP",
+                            "ABM",
+                            "QNS"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ref": "ROCHDALE TOWN CENTRE/MANCHESTER AIRPORT | 2 specials",
+        "type": "choice",
+        "count": 1,
+        "parts": [
+            {
+                "ref": "ROCHDALE DROP | AIRPORT ADD",
+                "type": "all",
+                "parts": [
+                    {
+                        "ref": "ROCHDALE TOWN CENTRE | special ability",
+                        "type": "special",
+                        "code": "DROPSECRETS",
+                        "stop": "RTC"
+                    },
+                    {
+                        "ref": "MANCHESTER AIRPORT | special ability",
+                        "type": "special",
+                        "code": "ADDSECRETS",
+                        "stop": "AIR"
+                    }
+                ]
+            },
+            {
+                "type": "all",
+                "ref": "AIRPORT DROP | ROCHDALE ADD",
+                "parts": [
+                    {
+                        "ref": "MANCHESTER AIRPORT | special ability",
+                        "type": "special",
+                        "code": "DROPSECRETS",
+                        "stop": "AIR"
+                    },
+                    {
+                        "ref": "ROCHDALE TOWN CENTRE | special ability",
+                        "type": "special",
+                        "code": "ADDSECRETS",
+                        "stop": "RTC"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "all",
+        "ref": "ROCHDALE LINE | 5 rewards",
+        "parts": [
+            {
+                "type": "choice",
+                "ref": "ROCHDALE ZONE 4 | 2 rewards",
+                "count": 2,
+                "parts": [
+                    "ROC",
+                    "NEB",
+                    "KIN",
+                    "MIL",
+                    "NEH",
+                    "SHC"
+                ]
+            },
+            {
+                "type": "choice",
+                "count": 2,
+                "ref": "ROCHDALE ZONE 3 | 2 rewards",
+                "parts": [
+                    "DER",
+                    "OHM",
+                    "OHC",
+                    "OHK",
+                    "WWD",
+                    "FRE",
+                    "SOC",
+                    "HOL",
+                    "FAL"
+                ]
+            },
+            {
+                "type": "choice",
+                "count": 1,
+                "ref": "ROCHDALE ZONE 2 | 1 reward",
+                "parts": [
+                    "NHM",
+                    "CEP",
+                    "MON"
+                ]
+            }
+        ]
+    },
+    {
+        "ref": "ASHTON LINE | 4 rewards and 1 special",
+        "type": "all",
+        "parts": [
+            {
+                "ref": "ASHTON-UNDER-LYNE | special ability",
+                "type": "special",
+                "code": "CLAIMORANGE",
+                "stop": "ASH"
+            },
+            {
+                "ref": "ASHTON ZONE 3 | 2 rewards",
+                "type": "choice",
+                "count": 2,
+                "parts": [
+                    "ASW",
+                    "ASM",
+                    "AUD",
+                    "DYL",
+                    "CER"
+                ]
+            },
+            {
+                "ref": "ASHTON ZONE 2 | 2 rewards",
+                "type": "choice",
+                "count": 2,
+                "parts": [
+                    "CLA",
+                    "VEL",
+                    "SPC",
+                    "HOT"
+                ]
+            }
+        ]
+    },
+    {
+        "ref": "DIDSBURY LINE | 2 rewards",
+        "type": "all",
+        "parts": [
+            {
+                "ref": "DIDSBURY ZONE 3 | 2 rewards",
+                "type": "choice",
+                "count": 2,
+                "parts": [
+                    "EDD",
+                    "DDV",
+                    "WDD",
+                    "BRT",
+                    "WTH"
+                ]
+            }
+        ]
+    },
+    {
+        "ref": "AIRPORT LINE | 5 rewards",
+        "type": "all",
+        "parts": [
+            {
+                "ref": "AIRPORT ZONE 4 | 2 rewards",
+                "type": "choice",
+                "count": 2,
+                "parts": [
+                    "SHD",
+                    "PLH",
+                    "RBN",
+                    "WYC",
+                    "CRO",
+                    "BCH",
+                    "MAR"
+                ]
+            },
+            {
+                "ref": "AIRPORT ZONE 3 | 2 rewards",
+                "type": "choice",
+                "count": 2,
+                "parts": [
+                    "RTH",
+                    "BAG",
+                    "MRD",
+                    "WPK",
+                    "NMR",
+                    "SWP"
+                ]
+            },
+            {
+                "ref": "AIRPORT ZONE 2 | 1 reward",
+                "type": "choice",
+                "count": 1,
+                "parts": [
+                    "BMR",
+                    "SWR",
+                    "CHO",
+                    "FIR"
+                ]
+            }
+        ]
+    },
+    {
+        "ref": "TRAFFORD PARK LINE | 2 rewards",
+        "type": "all",
+        "parts": [
+            {
+                "ref": "THE TRAFFORD CENTRE | special ability",
+                "type": "special",
+                "code": "REWARDCHOICE",
+                "stop": "TRC"
+            },
+            {
+                "ref": "TRAFFORD PARK ZONE 3 | 1 reward",
+                "type": "choice",
+                "count": 1,
+                "parts": [
+                    "EVC"
+                ]
+            },
+            {
+                "ref": "TRAFFORD PARK ZONE 2 | 1 reward",
+                "type": "choice",
+                "count": 1,
+                "parts": [
+                    "PAR",
+                    "VLG",
+                    "IWM",
+                    "WSD",
+                    "POM"
+                ]
+            }
+        ]
+    },
+    {
+        "ref": "MEDIACITYUK | guaranteed reward",
+        "type": "all",
+        "parts": [
+            "MEC"
+        ]
+    },
+    {
+        "ref": "ECCLES LINE | 3 rewards",
+        "type": "all",
+        "parts": [
+            {
+                "ref": "ECCLES ZONE 3 | 1 reward",
+                "type": "choice",
+                "count": 1,
+                "parts": [
+                    "ECC"
+                ]
+            },
+            {
+                "ref": "ECCLES ZONE 2 | 2 rewards",
+                "type": "all",
+                "parts": [
+                    {
+                        "ref": "ECCLES Z2 (POST-MEC) | 1 reward",
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "LDW",
+                            "WST",
+                            "LGW",
+                            "BDY"
+                        ]
+                    },
+                    {
+                        "ref": "ECCLES Z2 (PRE-MEC) | 1 reward",
+                        "type": "choice",
+                        "count": 1,
+                        "parts": [
+                            "HBC",
+                            "ANC",
+                            "SFQ",
+                            "EXQ"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

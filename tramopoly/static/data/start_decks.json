@@ -1,0 +1,49 @@
+{
+    "1": [
+        "ANNOUNCEMENT",
+        "ANNOUNCEMENT",
+        "CURSE-CLEAR-GRASS",
+        "CURSE-CLEAR-FLAG",
+        "CURSE-ONGOING-JAM",
+        "CURSE-ONGOING-TOGETHER"
+    ],
+    "2": [
+        "INTERCHANGE",
+        "INTERCHANGE",
+        "RAILROADED",
+        "RAILROADED",
+        "TICKETINSPECTION",
+        "TICKETINSPECTION",
+        "CANCELLED",
+        "REROUTED",
+        "REROUTED",
+        "REROUTED",
+        "CURSE-CLEAR-REPENT",
+        "CURSE-CLEAR-MELON",
+        "CURSE-CLEAR-CHEESE",
+        "CURSE-ONGOING-DOUBLE"
+    ],
+    "3" : [
+        "INTERCHANGE",
+        "RAILROADED",
+        "RAILROADED",
+        "RAILROADED",
+        "DERAILMENT",
+        "DERAILMENT",
+        "TICKETINSPECTION",
+        "TICKETINSPECTION",
+        "CANCELLED",
+        "CANCELLED",
+        "CANCELLED",
+        "CURSE-ONGOING-EVEN",
+        "CURSE-ONGOING-DOUBLE"
+    ],
+    "4" : [
+        "DERAILMENT",
+        "DERAILMENT",
+        "DERAILMENT",
+        "RAILROADED",
+        "CANCELLED",
+        "CANCELLED"
+    ]
+}
